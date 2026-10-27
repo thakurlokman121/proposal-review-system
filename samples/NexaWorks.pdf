@@ -1,0 +1,146 @@
+%PDF-1.4
+%Synthetic RFP proposal
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 569 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(NEXAWORKS | Proposal for Unified Procurement Analytics | 18 October 2026) Tj
+T*
+() Tj
+T*
+(1. Executive summary) Tj
+T*
+(NexaWorks proposes a phased analytics service that unifies spend, supplier, and) Tj
+T*
+(contract information while keeping source-system ownership clear. The design) Tj
+T*
+(emphasizes practical integration, accountable delivery, and a support transition) Tj
+T*
+(that continues beyond launch. Our proposal addresses 1,200 initial users and six-) Tj
+T*
+(month delivery, with explicit decisions and acceptance gates.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1104 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(2. Architecture and implementation) Tj
+T*
+(A managed data platform receives source data through API and scheduled-file) Tj
+T*
+(connectors. Validation rules report rejected records before publishing curated) Tj
+T*
+(datasets to a browser-based analytics workspace. SSO, role mapping, and a) Tj
+T*
+(documented REST interface are included. The initial scope covers two ERP sources) Tj
+T*
+(and one contract repository; further systems are estimated through change control.) Tj
+T*
+() Tj
+T*
+(The 20-week plan includes mobilization and discovery \(3 weeks\), solution design) Tj
+T*
+(and data mapping \(4 weeks\), two-week integration iterations \(6 weeks\), user) Tj
+T*
+(acceptance and remediation \(4 weeks\), and training and go-live \(3 weeks\). A) Tj
+T*
+(program manager, integration architect, three engineers, test lead, security) Tj
+T*
+(adviser, and adoption specialist are named roles. RAID reviews run weekly; a four-) Tj
+T*
+(week schedule reserve is held before the buyer's required date. Acceptance) Tj
+T*
+(criteria and named owners are defined for each milestone.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1438 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(3. Commercials, assurance, and service) Tj
+T*
+(Implementation: $790,000 fixed fee. Annual subscription: $445,000 for 1,200 users) Tj
+T*
+(and the three named source systems. Optional connectors are $45,000 each after a) Tj
+T*
+(scoped estimate. Fees exclude tax and buyer-side data cleansing. Subscription) Tj
+T*
+(increases are capped at 4% annually for the initial three-year term.) Tj
+T*
+() Tj
+T*
+(Security includes AES-256 at rest, TLS 1.2+ in transit, SSO, least privilege,) Tj
+T*
+(centralized audit logging with 12-month retention, annual penetration tests, and a) Tj
+T*
+(documented incident plan with a 24-hour notification target. NexaWorks is ISO) Tj
+T*
+(27001 certified; the scope statement and independent SOC 2 Type II report are) Tj
+T*
+(available under NDA. Data remains in the buyer-selected region and is deleted) Tj
+T*
+(within 60 days after termination, subject to backup expiry.) Tj
+T*
+() Tj
+T*
+(A named service manager coordinates 24x7 severity-1 response \(15-minute) Tj
+T*
+(acknowledgement target\), monthly service reporting, quarterly roadmap sessions,) Tj
+T*
+(and two days of post-launch hypercare. NexaWorks has delivered 11 analytics) Tj
+T*
+(implementations, including four procurement programs of similar integration scope.) Tj
+T*
+(Two references have approved contact subject to buyer scheduling. The buyer) Tj
+T*
+(supplies data owners and test access by the mobilization gate.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000033 00000 n 
+0000000082 00000 n 
+0000000151 00000 n 
+0000000277 00000 n 
+0000000897 00000 n 
+0000001023 00000 n 
+0000002179 00000 n 
+0000002305 00000 n 
+0000003795 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+3865
+%%EOF

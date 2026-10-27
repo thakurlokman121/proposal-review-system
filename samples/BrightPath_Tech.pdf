@@ -1,0 +1,132 @@
+%PDF-1.4
+%Synthetic RFP proposal
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 471 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(BRIGHTPATH TECH | Unified Procurement Analytics Proposal | 18 October 2026) Tj
+T*
+() Tj
+T*
+(1. Executive summary) Tj
+T*
+(BrightPath can get the buyer's procurement teams working quickly with a) Tj
+T*
+(straightforward cloud analytics application. The product brings purchasing data) Tj
+T*
+(into a common dashboard and can be configured for the requested departments. We) Tj
+T*
+(prioritize a low initial cost and a short path to launch.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 855 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(2. Solution and schedule) Tj
+T*
+(Our hosted platform includes dashboards, supplier records, and exportable reports.) Tj
+T*
+(Standard file imports are available; integration details for the buyer's ERP will) Tj
+T*
+(be confirmed during onboarding. The application supports user accounts and) Tj
+T*
+(configurable permissions. Architecture and scaling specifics can be shared in a) Tj
+T*
+(technical workshop.) Tj
+T*
+() Tj
+T*
+(We target a 12-week launch: kickoff and data review \(2 weeks\), configuration \(4) Tj
+T*
+(weeks\), imports and user testing \(4 weeks\), and training and launch \(2 weeks\). The) Tj
+T*
+(team includes one implementation manager and two configuration specialists. The) Tj
+T*
+(schedule assumes timely sample files and one buyer contact. We have not included a) Tj
+T*
+(detailed contingency schedule.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1046 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(3. Price and service) Tj
+T*
+(Year 1 price: $420,000, comprising $120,000 onboarding and $300,000 annual) Tj
+T*
+(subscription for 1,200 users. Additional data imports may incur fees after) Tj
+T*
+(discovery. Travel, taxes, and custom reports are excluded. Renewal pricing is) Tj
+T*
+(subject to the order form.) Tj
+T*
+() Tj
+T*
+(The service is hosted in a major cloud environment. Data is encrypted in transit) Tj
+T*
+(and at rest. We support standard login controls and can discuss single sign-on) Tj
+T*
+(options. Detailed certification status, audit-log retention, data residency, and) Tj
+T*
+(incident response commitments are not specified in this response.) Tj
+T*
+() Tj
+T*
+(Support is available by email during business hours, with urgent issues escalated) Tj
+T*
+(to an on-call engineer. BrightPath has completed several small-business reporting) Tj
+T*
+(deployments; this would be our first procurement analytics deployment at this user) Tj
+T*
+(scale. Customer references can be arranged after mutual approval.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000033 00000 n 
+0000000082 00000 n 
+0000000151 00000 n 
+0000000277 00000 n 
+0000000799 00000 n 
+0000000925 00000 n 
+0000001831 00000 n 
+0000001957 00000 n 
+0000003055 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+3125
+%%EOF

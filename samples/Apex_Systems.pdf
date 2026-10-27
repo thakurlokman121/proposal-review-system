@@ -1,0 +1,138 @@
+%PDF-1.4
+%Synthetic RFP proposal
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 582 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(APEX SYSTEMS | Response to the Unified Procurement Analytics RFP | 18 October 2026) Tj
+T*
+() Tj
+T*
+(1. Executive summary) Tj
+T*
+(Apex proposes a secure, extensible procurement analytics platform that) Tj
+T*
+(consolidates supplier, contract, and spend data into a governed workspace. Our) Tj
+T*
+(design supports the requested 1,200 users, existing identity provider, and staged) Tj
+T*
+(expansion to additional business units. We understand the buyer requires) Tj
+T*
+(implementation within six months, auditable access, and transparent total cost.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 825 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(2. Proposed solution and delivery) Tj
+T*
+(A modular cloud architecture uses a managed data warehouse, an integration layer) Tj
+T*
+(with documented REST APIs, and a role-based web application. The platform scales) Tj
+T*
+(horizontally and supports SSO through SAML and OIDC.) Tj
+T*
+() Tj
+T*
+(Delivery is planned across 24 weeks: discovery \(4 weeks\), foundation and) Tj
+T*
+(integrations \(8 weeks\), configuration and migration \(6 weeks\), acceptance and) Tj
+T*
+(training \(4 weeks\), and production transition \(2 weeks\). A delivery lead, solution) Tj
+T*
+(architect, two integration engineers, security lead, and change manager are) Tj
+T*
+(assigned. Weekly governance tracks dependencies, decisions, and risks. The legacy) Tj
+T*
+(ERP connector requires buyer test credentials by week 3.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 9 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1280 >>
+stream
+BT
+/F1 10 Tf
+54 748 Td
+14 TL
+(3. Commercial, security, and support) Tj
+T*
+(Fixed implementation fee: $1,480,000. Annual subscription: $360,000 for up to) Tj
+T*
+(1,200 named users. Optional data migration beyond three source systems is time-) Tj
+T*
+(and-materials at $220/hour. Taxes and buyer-provided cloud tenancy are excluded.) Tj
+T*
+(Pricing is valid for 90 days.) Tj
+T*
+() Tj
+T*
+(Controls include AES-256 encryption at rest, TLS 1.2+ in transit, SSO, least-) Tj
+T*
+(privilege role controls, immutable audit events, annual penetration testing, and) Tj
+T*
+(documented incident response. Apex maintains ISO 27001 certification; the current) Tj
+T*
+(certificate and scope can be provided during diligence. Customer data is hosted in) Tj
+T*
+(the selected region and is not used to train shared models.) Tj
+T*
+() Tj
+T*
+(Support is 24x7 for critical incidents, with a 30-minute initial response target) Tj
+T*
+(for severity 1. Standard support includes named service management, monthly) Tj
+T*
+(service reviews, and quarterly release briefings. Apex has delivered comparable) Tj
+T*
+(analytics programs for two large public-sector organizations; references are) Tj
+T*
+(available with permission. The proposal assumes buyer SMEs are available for two) Tj
+T*
+(workshops each week.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000033 00000 n 
+0000000082 00000 n 
+0000000151 00000 n 
+0000000277 00000 n 
+0000000910 00000 n 
+0000001036 00000 n 
+0000001912 00000 n 
+0000002038 00000 n 
+0000003370 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+3440
+%%EOF

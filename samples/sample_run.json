@@ -1,0 +1,312 @@
+{
+  "rfp_run_id": "SYNTHETIC-SAMPLE-RUN",
+  "created_at": "2026-10-18T00:00:00+00:00",
+  "status": "sample",
+  "suppliers": [
+    {
+      "supplier_name": "Apex Systems",
+      "criteria": [
+        {
+          "criterion_id": 1,
+          "criterion_name": "Technical Capability",
+          "score": 8.7,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "justification": "Demo estimate based on 4 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: architecture, integration, api, platform",
+          "benchmark": 8.7,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        },
+        {
+          "criterion_id": 2,
+          "criterion_name": "Implementation Plan",
+          "score": 4.8,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 1 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: delivery",
+          "benchmark": 7.4,
+          "gap": -2.6000000000000005,
+          "relative_pct": 64.86486486486486
+        },
+        {
+          "criterion_id": 3,
+          "criterion_name": "Commercial Value",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: cost, pricing, $",
+          "benchmark": 8.7,
+          "gap": -1.299999999999999,
+          "relative_pct": 85.05747126436782
+        },
+        {
+          "criterion_id": 4,
+          "criterion_name": "Security & Compliance",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: security, encryption, audit",
+          "benchmark": 7.4,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        },
+        {
+          "criterion_id": 5,
+          "criterion_name": "Support & Experience",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: support, reference, service",
+          "benchmark": 8.7,
+          "gap": -1.299999999999999,
+          "relative_pct": 85.05747126436782
+        }
+      ],
+      "risks": [
+        "Demo scorer used; configure an LLM before operational use."
+      ],
+      "overall_summary": "Local keyword-based demo evaluation. Scores are illustrative and should be reviewed.",
+      "warnings": [],
+      "absolute_score": 72.7,
+      "ppi": 88.49021435228332,
+      "submission_date": "2026-10-18",
+      "experience_rating": 3.5,
+      "filename": "Apex_Systems.pdf",
+      "final_rank": 1
+    },
+    {
+      "supplier_name": "NexaWorks",
+      "criteria": [
+        {
+          "criterion_id": 1,
+          "criterion_name": "Technical Capability",
+          "score": 8.7,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "justification": "Demo estimate based on 4 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: architecture, integration, api, platform",
+          "benchmark": 8.7,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        },
+        {
+          "criterion_id": 2,
+          "criterion_name": "Implementation Plan",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: milestone, phase, delivery",
+          "benchmark": 7.4,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        },
+        {
+          "criterion_id": 3,
+          "criterion_name": "Commercial Value",
+          "score": 4.8,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 1 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: $",
+          "benchmark": 8.7,
+          "gap": -3.8999999999999995,
+          "relative_pct": 55.172413793103445
+        },
+        {
+          "criterion_id": 4,
+          "criterion_name": "Security & Compliance",
+          "score": 6.1,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 2 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: security, audit",
+          "benchmark": 7.4,
+          "gap": -1.3000000000000007,
+          "relative_pct": 82.43243243243242
+        },
+        {
+          "criterion_id": 5,
+          "criterion_name": "Support & Experience",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: support, reference, service",
+          "benchmark": 8.7,
+          "gap": -1.299999999999999,
+          "relative_pct": 85.05747126436782
+        }
+      ],
+      "risks": [
+        "Demo scorer used; configure an LLM before operational use."
+      ],
+      "overall_summary": "Local keyword-based demo evaluation. Scores are illustrative and should be reviewed.",
+      "warnings": [],
+      "absolute_score": 70.10000000000001,
+      "ppi": 86.02671637154396,
+      "submission_date": "2026-10-18",
+      "experience_rating": 4.0,
+      "filename": "NexaWorks.pdf",
+      "final_rank": 2
+    },
+    {
+      "supplier_name": "Orbit Digital",
+      "criteria": [
+        {
+          "criterion_id": 1,
+          "criterion_name": "Technical Capability",
+          "score": 6.1,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "justification": "Demo estimate based on 2 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: integration, platform",
+          "benchmark": 8.7,
+          "gap": -2.5999999999999996,
+          "relative_pct": 70.11494252873564
+        },
+        {
+          "criterion_id": 2,
+          "criterion_name": "Implementation Plan",
+          "score": 4.8,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 1 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: delivery",
+          "benchmark": 7.4,
+          "gap": -2.6000000000000005,
+          "relative_pct": 64.86486486486486
+        },
+        {
+          "criterion_id": 3,
+          "criterion_name": "Commercial Value",
+          "score": 6.1,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 2 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: price, $",
+          "benchmark": 8.7,
+          "gap": -2.5999999999999996,
+          "relative_pct": 70.11494252873564
+        },
+        {
+          "criterion_id": 4,
+          "criterion_name": "Security & Compliance",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: security, encryption, audit",
+          "benchmark": 7.4,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        },
+        {
+          "criterion_id": 5,
+          "criterion_name": "Support & Experience",
+          "score": 8.7,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "justification": "Demo estimate based on 4 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: support, reference, experience, service",
+          "benchmark": 8.7,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        }
+      ],
+      "risks": [
+        "Demo scorer used; configure an LLM before operational use."
+      ],
+      "overall_summary": "Local keyword-based demo evaluation. Scores are illustrative and should be reviewed.",
+      "warnings": [],
+      "absolute_score": 63.599999999999994,
+      "ppi": 78.03044423734079,
+      "submission_date": "2026-10-18",
+      "experience_rating": 5.0,
+      "filename": "Orbit_Digital.pdf",
+      "final_rank": 3
+    },
+    {
+      "supplier_name": "BrightPath Tech",
+      "criteria": [
+        {
+          "criterion_id": 1,
+          "criterion_name": "Technical Capability",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: architecture, integration, platform",
+          "benchmark": 8.7,
+          "gap": -1.299999999999999,
+          "relative_pct": 85.05747126436782
+        },
+        {
+          "criterion_id": 2,
+          "criterion_name": "Implementation Plan",
+          "score": 3.5,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 0 criterion-related terms; review before procurement use.",
+          "evidence": "No matching evidence found by the local demo scorer.",
+          "benchmark": 7.4,
+          "gap": -3.9000000000000004,
+          "relative_pct": 47.2972972972973
+        },
+        {
+          "criterion_id": 3,
+          "criterion_name": "Commercial Value",
+          "score": 8.7,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 4 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: price, cost, pricing, $",
+          "benchmark": 8.7,
+          "gap": 0.0,
+          "relative_pct": 100.0
+        },
+        {
+          "criterion_id": 4,
+          "criterion_name": "Security & Compliance",
+          "score": 4.8,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "justification": "Demo estimate based on 1 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: audit",
+          "benchmark": 7.4,
+          "gap": -2.6000000000000005,
+          "relative_pct": 64.86486486486486
+        },
+        {
+          "criterion_id": 5,
+          "criterion_name": "Support & Experience",
+          "score": 7.4,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "justification": "Demo estimate based on 3 criterion-related terms; review before procurement use.",
+          "evidence": "Relevant terms found: support, reference, service",
+          "benchmark": 8.7,
+          "gap": -1.299999999999999,
+          "relative_pct": 85.05747126436782
+        }
+      ],
+      "risks": [
+        "Demo scorer used; configure an LLM before operational use."
+      ],
+      "overall_summary": "Local keyword-based demo evaluation. Scores are illustrative and should be reviewed.",
+      "warnings": [],
+      "absolute_score": 63.599999999999994,
+      "ppi": 76.45542093817956,
+      "submission_date": "2026-10-18",
+      "experience_rating": 1.5,
+      "filename": "BrightPath_Tech.pdf",
+      "final_rank": 4
+    }
+  ],
+  "notes": "Generated with the local demo scorer; scores are illustrative, not procurement advice."
+}
